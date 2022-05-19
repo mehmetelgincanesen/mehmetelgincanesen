@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mehmetelgincanesen
-- 👀 I’m interested in C programming and TCP/IP 
+- 👀 I’m interested in C and Java programming 
 - 🌱 I’m currently learning C, javascript, python and TCP/IP
 - 📫 How to reach me "elgincan.elgincan@gmail.com"
 <!---
